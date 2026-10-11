@@ -1,0 +1,1 @@
+print("i hate everything fuck everyone")
